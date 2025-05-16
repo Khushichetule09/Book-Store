@@ -3,7 +3,9 @@
 Welcome to Book Haven, a sleek and modern online bookstore built entirely with HTML5 and CSS3. This project offers a visually stunning and fully responsive UI designed to deliver an elegant and immersive experience for book lovers. Whether you're browsing from a phone or desktop, the layout adapts seamlessly. 📱💻
 
 
+
 🌟 Explore Timeless Classics
+
 Dive into legendary literary masterpieces like:
 
 📖 The Great Gatsby by F. Scott Fitzgerald
@@ -15,7 +17,9 @@ Dive into legendary literary masterpieces like:
 These beloved books are showcased with their original covers and descriptions, giving your website a rich, authentic feel.
 
 
+
 🔑 Key Features:
+
 🎨 Modern & Clean Design – Stylish layout with smooth typography and engaging visuals
 
 ✅ Responsive Layout – Optimized for mobile, tablet, and desktop browsing
@@ -28,7 +32,10 @@ These beloved books are showcased with their original covers and descriptions, g
 
 🌙 Optional Dark Mode – Reader-friendly for nighttime viewing
 
+
+
 🧑‍💻 Perfect For:
+
 📂 Portfolio projects to showcase frontend skills
 
 📚 Student assignments or frontend practice
