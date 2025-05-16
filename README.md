@@ -3,6 +3,10 @@
 Welcome to Book Haven, a sleek and modern online bookstore built entirely with HTML5 and CSS3. This project offers a visually stunning and fully responsive UI designed to deliver an elegant and immersive experience for book lovers. Whether you're browsing from a phone or desktop, the layout adapts seamlessly. 📱💻
 
 
+🌟 Preview
+[Screenshot of the Dribble Clone](Preview.png)
+
+
 
 🌟 Explore Timeless Classics
 
