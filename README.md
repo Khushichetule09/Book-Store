@@ -1,6 +1,12 @@
 📚 Book Haven – A Beautiful & Responsive Book Store Website
 
-Welcome to Book Haven, a sleek and modern online bookstore built entirely with HTML5 and CSS3. This project offers a stunning, fully responsive UI designed to deliver an elegant and immersive experience for book lovers. Whether you're browsing from a phone or desktop, the design adapts seamlessly. 📱💻
+Welcome to Book Haven, a sleek and modern online bookstore built entirely with HTML5 and CSS3. This project offers a visually stunning and fully responsive UI designed to deliver an elegant and immersive experience for book lovers. Whether you're browsing from a phone or desktop, the layout adapts seamlessly. 📱💻
+
+🌟 Live Preview
+
+A glimpse of the homepage with featured classics and a smooth UI
+
+Replace ./path-to-your-screenshot.png with the correct path or uploaded image URL in your repo.
 
 🌟 Explore Timeless Classics
 Dive into legendary literary masterpieces like:
@@ -11,7 +17,7 @@ Dive into legendary literary masterpieces like:
 
 🕊️ To Kill a Mockingbird by Harper Lee
 
-These iconic titles are showcased in a clean and modern interface, helping readers connect with stories that shaped generations.
+These beloved books are showcased with their original covers and descriptions, giving your website a rich, authentic feel.
 
 🔑 Key Features:
 🎨 Modern & Clean Design – Stylish layout with smooth typography and engaging visuals
@@ -22,9 +28,9 @@ These iconic titles are showcased in a clean and modern interface, helping reade
 
 💾 Pure HTML & CSS – No frameworks, no JavaScript – just clean and efficient code
 
-📚 Real Book Listings – Featuring classic novels with cover images and descriptions
+📚 Real Book Listings – Featuring classic novels with cover images and details
 
-🌙 Optional Dark Mode – Ready for night readers (optional add-on)
+🌙 Optional Dark Mode – Reader-friendly for nighttime viewing
 
 🧑‍💻 Perfect For:
 📂 Portfolio projects to showcase frontend skills
