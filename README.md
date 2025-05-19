@@ -5,7 +5,7 @@
 
 ---
 
-## 📸 Screenshot
+## 📸 Preview
 
 ![Alt text](images/Preview.png)
 *Home page featuring a hero banner and a selection of featured books*
