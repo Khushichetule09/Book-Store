@@ -1,52 +1,54 @@
-📚 Book Haven – A Beautiful & Responsive Book Store Website
+# 📚 Book Haven
 
-Welcome to Book Haven, a sleek and modern online bookstore built entirely with HTML5 and CSS3. This project offers a visually stunning and fully responsive UI designed to deliver an elegant and immersive experience for book lovers. Whether you're browsing from a phone or desktop, the layout adapts seamlessly. 📱💻
-
-
-🌟 Preview
-[Screenshot of the Dribble Clone](Preview.png)
+**Book Haven** is a clean and visually appealing website that showcases a curated collection of books, from timeless classics to modern bestsellers. This project is built using HTML and CSS, emphasizing a responsive and user-friendly layout.
 
 
+---
 
-🌟 Explore Timeless Classics
+## 📸 Screenshot
 
-Dive into legendary literary masterpieces like:
+![Alt text](images/Preview.png)
+*Home page featuring a hero banner and a selection of featured books*
 
-📖 The Great Gatsby by F. Scott Fitzgerald
+---
 
-👁️ 1984 by George Orwell
+## 🧰 Tech Stack
 
-🕊️ To Kill a Mockingbird by Harper Lee
+- HTML5
+- CSS3
+- Responsive Flexbox Layout
+- Google Fonts (optional)
 
-These beloved books are showcased with their original covers and descriptions, giving your website a rich, authentic feel.
-
-
-
-🔑 Key Features:
-
-🎨 Modern & Clean Design – Stylish layout with smooth typography and engaging visuals
-
-✅ Responsive Layout – Optimized for mobile, tablet, and desktop browsing
-
-🧾 Multi-section Pages – Includes Home, Categories, Bestsellers, About, and Contact
-
-💾 Pure HTML & CSS – No frameworks, no JavaScript – just clean and efficient code
-
-📚 Real Book Listings – Featuring classic novels with cover images and details
-
-🌙 Optional Dark Mode – Reader-friendly for nighttime viewing
+---
 
 
+## 💡 Features
 
-🧑‍💻 Perfect For:
+- Hero section with a full-screen background and call-to-action button
+- Responsive layout using Flexbox
+- Clean and minimal design
+- Book cards with cover image, title, and author
+- Reusable and scalable structure
 
-📂 Portfolio projects to showcase frontend skills
+---
 
-📚 Student assignments or frontend practice
+## 🚀 Getting Started
 
-🛍️ Small bookstore mockups or early-stage e-commerce demos
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/khushichetule09/book-store
+   cd book-haven
 
-🚀 Starter templates for dynamic bookstore applications
 
+🎨 Customization Ideas
+Add a search bar for books
+
+Add a book rating or genre tag
+
+Integrate with an API (e.g., Google Books)
+
+Add dark mode toggle
+
+Animate book cards on hover
 
 
