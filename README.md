@@ -1,6 +1,6 @@
 # 📚 Book Haven
 
-**Book Haven** is a clean and visually appealing website that showcases a curated collection of books, from timeless classics to modern bestsellers. This project is built using HTML and CSS, emphasizing a responsive and user-friendly layout..
+**Book Haven** is a clean and visually appealing website that showcases a curated collection of books, from timeless classics to modern bestsellers. This project is built using HTML and CSS, emphasizing a responsive and user-friendly layout.
 
 
 ---
